@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "tsx src/test.ts"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.9.0",
+    "axios": "^1.6.1",
+    "fs-extra": "^11.1.1",
+    "puppeteer": "^21.5.1",
+    "tsx": "^4.1.1",
+    "typescript": "^5.2.2"
+  }
+}
